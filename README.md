@@ -5,6 +5,6 @@
 
 ![参考画像](./Sample1.png)
 
-3. **Assets** の「Setup.exe」の方をクリックしてダウンロードしてください。
+2. **Assets** の「Setup.exe」の方をクリックしてダウンロードしてください。
 
 ※ **Setup.exe.blockmap** ではないので注意
